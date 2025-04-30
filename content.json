@@ -1,0 +1,70 @@
+{
+  "site": {
+    "title": "Realize o sonho da casa própria!",
+    "tagline": "Conquiste seu lar em Engenheiro Coelho com o programa Minha Casa Minha Vida e entrada parcelada.", 
+    "whatsapp": "+5511963695338"
+  },
+  "property": {
+    "price": "R$ 247.000",
+    "paymentInfo": "Parcelamos a entrada",
+    "details": {
+      "quartos": 2,
+      "banheiros": 1,
+      "salaEstar": true,
+      "salaJantar": true,
+      "cozinha": "ampla",
+      "vagasGaragem": 2,
+      "areaServico": "externa",
+      "lote": "150 m²",
+      "construção": "55 m²"
+    },
+    "images": [
+      "/hero1.jpg?height=600&width=800",
+      "/hero2.jpg?height=600&width=800",
+      "/hero3.jpg?height=600&width=800",
+      "/hero4.jpeg?height=600&width=800",
+      "/hero4.jpeg?height=600&width=800"
+    ],
+    "videoTourUrl": "https://seu-host.com/tour360.html",
+    "location": {
+      "lat": -22.6095,
+      "lng": -47.5603
+    }
+  },
+  "eligibility": {
+    "groups": [
+      { "maxIncome": 2400, "subsídio": "até R$ 47.500" },
+      { "maxIncome": 4400, "subsídio": "até R$ 24.900" },
+      { "maxIncome": 8000, "subsídio": "nenhum" }
+    ],
+    "minDownPayment": "5%",
+    "restrictions": [
+      "Não possuir outro imóvel",
+      "Não ter financiamento ativo",
+      "CPF sem restrições",
+      "Primeira aquisição imobiliária"
+    ]
+  },
+  "faqs": [
+    {
+      "q": "O que é necessário para financiar pelo Minha Casa Minha Vida?",
+      "a": "RG, CPF, comprovante de renda (CLT/autônomo/informal), comprovante de residência e certidões negativas."
+    },
+    {
+      "q": "Qual valor mínimo de entrada?",
+      "a": "5% do valor do imóvel (R$ 12.350)."
+    },
+    {
+      "q": "Posso usar FGTS para entrada?",
+      "a": "Sim, é possível complementar a entrada usando o FGTS."
+    },
+    {
+      "q": "Qual a duração máxima do financiamento?",
+      "a": "Até 360 meses (30 anos)."
+    },
+    {
+      "q": "Há limite de idade para solicitar?",
+      "a": "Não há limite de idade específico, desde que comprove renda e documentos em dia."
+    }
+  ]
+}
